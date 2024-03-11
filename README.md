@@ -9,19 +9,21 @@
 ![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/0a786c70-fc95-4d5b-bba2-f37977bea65c)
 
 # Thiết kế layout
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/834ab248-1770-4d44-b77f-8cb485968f4b)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/5b4b9b4f-c133-4417-8d96-067f473a5900)
 
 ## Click nút GREEN
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/40ec05cf-786b-4169-b091-433661cbc39f)
 ![image](https://github.com/TomTom2k/tranningTace/assets/88455780/88fe9d84-129d-4750-8010-0e39ef194c45)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/dc5647a1-7f6b-407a-85a2-0fae5f047958)
 
 ## Click nút BLUE
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/2df93cc4-621f-4a7f-9332-080d4564a90f)
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/3349b6a6-cae1-4f96-b5d1-76a6859accb4)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/d4add882-fcc2-489a-b0a9-7b4d2ec5eb48)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/a915b459-7ecc-4c60-87b8-52959406d10f)
+
 
 ## Click nút RED
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/f4f3e11f-cba9-49d1-8e60-d7b8b7fb5796)
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/8d8ef831-40a6-4e77-bfbc-596ac30c19fb)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/5c360dec-8b3d-4cbc-aab8-93b64b2e7f14)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/b2a635f8-1b69-49ea-a977-e97d707260a3)
+
 
 
 
