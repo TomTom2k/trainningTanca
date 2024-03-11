@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ĐĂNG KÝ KHÓA HỌC</title>
+
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        input {
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <form action=""
+        style="width: 400px; display: flex; flex-direction: column; gap: 10px; border: 1px solid black; padding: 20px;">
+        <h2>Đăng ký khóa học</h2>
+        <input type="text" placeholder="Nhập họ tên">
+        <input type="text" placeholder="Nhập MSSV">
+        <input type="date" placeholder="Ngày sinh">
+        <div>
+            <input type="radio" id="male" name="gender"> <label for="male">Nam</label>
+            <input type="radio" id="female" name="gender"> <label for="female">Nữ</label>
+        </div>
+        <input type="text" placeholder="Nhập địa chỉ">
+        <select name="" id="">
+            <option disabled value="" selected>Chọn môn học đăng ký</option>
+            <option value="">Nhập môn lập trình</option>
+            <option value="">Kỹ thuật lập trình</option>
+        </select>
+        <button type="submit">Đăng ký</button>
+    </form>
+</body>
+
+</html>
