@@ -1,12 +1,12 @@
 # Viết một webpage có form đăng ký môn học gồm các trường thông tin sau
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/c3bd3a68-e34c-4c27-b619-467b9e79c127)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/003733bc-ade9-4e08-9793-a9289a95c854)
 
 # Viết một webpage có form login như hình: 
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/2b316f89-4632-41ba-bbcb-ca489ef00e7a)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/868fcf98-3a54-4e09-8034-a2a316c975ce)
 ## validate dữ liệu
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/10356667-bbe6-4be0-b49c-78e3f726fad3)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/17d40b84-855e-4dfb-8f43-4ad90e552d44)
 ## Đăng nhập thành công
-![image](https://github.com/TomTom2k/tranningTace/assets/88455780/71cd5e58-f916-4438-8830-76a55af6e30e)
+![image](https://github.com/TomTom2k/trainningTanca/assets/88455780/0a786c70-fc95-4d5b-bba2-f37977bea65c)
 
 # Thiết kế layout
 ![image](https://github.com/TomTom2k/tranningTace/assets/88455780/834ab248-1770-4d44-b77f-8cb485968f4b)
